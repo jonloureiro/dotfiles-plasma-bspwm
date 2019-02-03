@@ -2,7 +2,7 @@
 
 sxhkd &
 
-bspc monitor -d home www code music games
+bspc monitor -d home www code music game
 
 bspc config border_width          3
 bspc config window_gap            12
@@ -14,8 +14,8 @@ bspc config focused_border_color  \#398cb7
 bspc config split_ratio           0.50
 bspc config borderless_monocle    true
 bspc config gapless_monocle       true
-bspc config top_padding           28
-bspc config bottom_padding        28
+bspc config top_padding           22
+bspc config bottom_padding        22
 
 bspc rule -a systemsettings desktop=\home
 bspc rule -a kmail2 desktop=\home
@@ -24,7 +24,7 @@ bspc rule -a Firefox desktop=\www
 bspc rule -a Atom desktop=\code
 bspc rule -a Code desktop=\code
 bspc rule -a Spotify desktop=\music
-bspc rule -a Steam desktop=\games
+bspc rule -a Steam desktop=\game
 
 #bspc rule -a Plasma state=floating manage=off layer=normal
 #bspc rule -a plasmashell sticky=on layer=above state=floating
