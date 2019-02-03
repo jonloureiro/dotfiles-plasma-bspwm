@@ -12,4 +12,5 @@ Tested in KDE neon.
 
 Wallpaper by [charlie-henson](https://www.opendesktop.org/u/charlie-henson/)
 <hr>
+
 Inspired by [u/fbn_](https://www.reddit.com/r/unixporn/comments/8w4oj9/bspwmplasma_clean_functional/)
